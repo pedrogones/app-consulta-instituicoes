@@ -1,5 +1,5 @@
 <strong>Como instalar as dependências e executar o programa:<strong> 
-<br> se na tiver o Node.js, ignore esse passo<br>Instalar o Node.js<br>
+<br> se ja tiver o Node.js, ignore esse passo abaixo<br>Instalar o Node.js<br>
 Verifique se o Node.js e o npm foram instalados corretamente executando os seguintes comandos no terminal:
 <br>
 node -v
